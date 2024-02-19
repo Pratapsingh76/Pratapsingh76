@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pratap Singh and I'm a Software Engineer....</h2>
+<h2 align="left">My name is Pratap Singh and I'm a Software Engineer....</h2>
 
 ###
 
